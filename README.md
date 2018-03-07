@@ -1,3 +1,14 @@
+// ==UserScript==
+// @name         Shatelland Upload Center Advanced Features
+// @namespace    http://coco.ir/
+// @version      1.0
+// @description  Add new and advanced features to Shatelland upload center
+// @author       doco | doco@live.com | http://coco.ir
+// @include      http*://*shatelland.com/upload*
+// @run-at       document-end
+// @grant        none
+// ==/UserScript==
+
 (function () {
     'use strict';
     
